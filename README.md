@@ -8,9 +8,8 @@ Official token Github repository.
 **Project under construction**
 
 
-Join us on telegram for more info: https://t.me/THUGCOIN
+Join us on telegram for more info: [Telegram](https://t.me/THUGCOIN)
 
-Website : http://thugcoin.cash
+Check our [website](http://thugcoin.cash) and [twitter](https://twitter.com/THUGCOIN)
 
-Twitter: https://twitter.com/THUGCOIN
 
