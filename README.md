@@ -1,5 +1,8 @@
 # ThugCoin
 
+![alt text](https://github.com/THUGCOIN/ThugCoin/blob/master/Banner.jpg "ThugCoin Banner")
+
+
 Official token Github repository.
 
 **Project under construction**
